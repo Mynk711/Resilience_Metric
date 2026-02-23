@@ -6,7 +6,7 @@ import yfinance as yf
 import requests
 import pdfplumber
 import io
-
+import numpy as np
 # ──────────────────────────────────────────
 # PAGE CONFIG
 # ──────────────────────────────────────────
